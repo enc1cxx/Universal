@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTagXml xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Tag>
+    <Name>tag1</Name>
+    <DataType>Numeric</DataType>
+    <SignalType>Sinusoid</SignalType>
+    <MinValue>0</MinValue>
+    <MaxValue>30</MaxValue>
+    <Period>60</Period>
+    <TimeOffset>0</TimeOffset>
+  </Tag>
+  <Tag>
+    <Name>tag3</Name>
+    <DataType>Numeric</DataType>
+    <SignalType>Square</SignalType>
+    <MinValue>0</MinValue>
+    <MaxValue>30</MaxValue>
+    <Period>60</Period>
+    <TimeOffset>0</TimeOffset>
+  </Tag>
+</ArrayOfTagXml>

@@ -1,0 +1,15 @@
+﻿  MyForm.cpp
+C:\Users\AAleksandrov\source\repos\Universal\MyForm.h(777,1): warning C4965: неявная упаковка целого числа 0; используйте nullptr или явное приведение типов
+C:\Users\AAleksandrov\source\repos\Universal\MyForm.h(1173,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\AAleksandrov\source\repos\Universal\MyForm.h(1184,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\AAleksandrov\source\repos\Universal\MyForm.h(1196,49): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\AAleksandrov\source\repos\Universal\MyForm.h(1196,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\AAleksandrov\source\repos\Universal\MyForm.h(1207,49): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\AAleksandrov\source\repos\Universal\MyForm.h(1207,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\AAleksandrov\source\repos\Universal\MyForm.h(1228,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\AAleksandrov\source\repos\Universal\MyForm.h(1243,24): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\AAleksandrov\source\repos\Universal\MyForm.h(1250,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\AAleksandrov\source\repos\Universal\MyForm.h(1307,46): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\AAleksandrov\source\repos\Universal\MyForm.h(1604,20): warning C4101: ex: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Universal.vcxproj -> C:\Users\AAleksandrov\source\repos\Universal\x64\Debug\Universal.exe

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUniversalItemXml xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UniversalItemXml>
+    <MatchingXmlList />
+    <Name>tag1</Name>
+    <UniversalParam>tag1</UniversalParam>
+    <SpecialParamNum>0</SpecialParamNum>
+    <DataTypeNum>1</DataTypeNum>
+    <ExecutionUPStatusNum>0</ExecutionUPStatusNum>
+  </UniversalItemXml>
+  <UniversalItemXml>
+    <MatchingXmlList />
+    <Name>tag3</Name>
+    <UniversalParam>tag3</UniversalParam>
+    <SpecialParamNum>0</SpecialParamNum>
+    <DataTypeNum>1</DataTypeNum>
+    <ExecutionUPStatusNum>0</ExecutionUPStatusNum>
+  </UniversalItemXml>
+</ArrayOfUniversalItemXml>

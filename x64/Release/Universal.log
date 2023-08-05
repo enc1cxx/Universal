@@ -1,0 +1,4 @@
+﻿  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+.NETFramework,Version=v4.8.AssemblyAttributes.obj : warning LNK4020: запись типа в "" повреждена; некоторые символы и типы могут быть недоступными из отладчика
+MSVCRT.lib(initializers.obj) : warning LNK4020: запись типа в "" повреждена; некоторые символы и типы могут быть недоступными из отладчика
+  Universal.vcxproj -> C:\Users\AAleksandrov\source\repos\Universal\x64\Release\Universal.exe
